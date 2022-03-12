@@ -7,7 +7,19 @@
   Oh, i almost forgot that i have some other side projects that i hope they will be completed some day.
 </p>
 
-<p align="center"><a href="https://twitter.com/eduardobcabral"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/eduardosbcabral/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:eduardosbcabral@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+<p align="center">
+  <a href="https://educabral.me">
+    <img src="https://img.shields.io/badge/My Site-%235C72FF.svg?&style=for-the-badge&logoColor=white" height=25>
+  </a> 
+  <a href="https://twitter.com/eduardobcabral">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  </a>
+  <a href="https://www.linkedin.com/in/eduardosbcabral/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a href="mailto:eduardosbcabral@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
 </p>
 
 <p align=center>
