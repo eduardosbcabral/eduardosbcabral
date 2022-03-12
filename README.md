@@ -42,6 +42,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardosbcabral&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbcabral&hide=html,css&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardosbcabral&show_icons=true&theme=radical" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbcabral&hide=html,css&theme=radical&layout=compact" width="335px" />
 </p>
