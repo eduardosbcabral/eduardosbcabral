@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/.NET%20-%234D2ACC.svg?&style=for-the-badge&logo=.NET&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript%20-%23d9c104.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/MongoDB%20-%2310A94F.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/Rust%20-%23885E40.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<div align="center">
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=eduardosbcabral&show_icons=true&theme=radical" />
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbcabral&hide=html,css&theme=radical&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardosbcabral&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosbcabral&hide=html,css&theme=radical&layout=compact" />
+</p>
