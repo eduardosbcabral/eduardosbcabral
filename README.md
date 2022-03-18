@@ -7,6 +7,10 @@
   Oh, i almost forgot that i have some other side projects that i hope they will be completed some day.
 </p>
 
+<p align="center">
+  <a href="https://github.com/eduardosbcabral"><img src="https://img.shields.io/github/followers/eduardosbcabral?style=social"></a>
+</p>
+
 <p align=center>
   <a href="https://github.com/eduardosbcabral?tab=repositories">
     <img src="https://badges.pufler.dev/repos/eduardosbcabral?style=flat-square&color=black&logo=github">
@@ -32,9 +36,6 @@
   </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/eduardosbcabral"><img src="https://img.shields.io/github/followers/eduardosbcabral?style=social"></a>
-</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Web Development-brown"> <img src="https://img.shields.io/badge/Software Architecture-green"> <img src="https://img.shields.io/badge/Performance-red"> <img src="https://img.shields.io/badge/Self Learning-magenta"> <img src="https://img.shields.io/badge/A little bit of frontend-yellow"> <img src="https://img.shields.io/badge/Backend-blue"> 
 </p>
