@@ -11,16 +11,6 @@
   <a href="https://github.com/eduardosbcabral"><img src="https://img.shields.io/github/followers/eduardosbcabral?style=social"></a>
 </p>
 
-<p align=center>
-  <a href="https://github.com/eduardosbcabral?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/eduardosbcabral?style=flat-square&color=black&logo=github">
-  </a>
-  
-  <a href="https://github.com/eduardosbcabral">
-    <img src="https://badges.pufler.dev/visits/eduardosbcabral/eduardosbcabral?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
 <p align="center">
   <a href="https://educabral.me">
     <img src="https://img.shields.io/badge/My Site-%235C72FF.svg?&style=for-the-badge&logoColor=white" height=25>
